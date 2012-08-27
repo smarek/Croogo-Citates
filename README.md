@@ -7,7 +7,9 @@ Primary use is as topline under site name, can be seen here: http://www.sedmihor
 
 [element:header plugin="Citates"]
 
-=============
+
+Admin Menu adjust
+------------
 
 Note: If you need to adjust menu position in administration, edit file Config/bootstrap.php
 
